@@ -1,0 +1,9 @@
+fastapi==0.109.2
+uvicorn==0.27.1
+python-multipart==0.0.9
+pydantic==2.6.1
+python-dotenv==1.0.1
+crewai==0.11.0
+pylatexenc==2.10
+regex==2023.12.25
+numpy==1.26.4 

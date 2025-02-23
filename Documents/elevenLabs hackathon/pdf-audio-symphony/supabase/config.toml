@@ -1,0 +1,6 @@
+
+[functions.text-to-speech]
+verify_jwt = false
+
+[functions.process-math-text]
+verify_jwt = false
