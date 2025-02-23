@@ -2,5 +2,5 @@
 
 ## Project info
 
-Build using Lovable for ElevenLabs haskathon
+Build using Lovable and Cursor for ElevenLabs haskathon
 
